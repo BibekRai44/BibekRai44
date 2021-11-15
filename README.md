@@ -1,5 +1,5 @@
-<h1 align="center">This is Rick Astley</h1>
-<h3 align="center">I am gonna rickroll you.</h3>
+<h1 align="center">Sad boy on internet.</h1>
+<h3 align="center">Want to be happy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekkun&label=Profile%20views&color=0e75b6&style=flat" alt="bibekkun" /> </p>
 
