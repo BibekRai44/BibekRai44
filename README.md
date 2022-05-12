@@ -1,4 +1,4 @@
-<img src="![monkey-chill-monkey](https://user-images.githubusercontent.com/60976347/168118585-25b59f37-ad25-460e-80c3-b72fda6c4001.gif)">
+![monkey-chill-monkey](https://user-images.githubusercontent.com/60976347/168119279-0d8bbee4-1461-4873-afa4-0f8531f1eb53.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekkun&label=Profile%20views&color=0e75b6&style=flat" alt="bibekkun" /> </p>
 
