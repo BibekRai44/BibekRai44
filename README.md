@@ -1,5 +1,4 @@
-<h1 align="center">Sad boy on internet.</h1>
-<h3 align="center">Wants to be happy.</h3>
+<img src="![monkey-chill-monkey](https://user-images.githubusercontent.com/60976347/168118585-25b59f37-ad25-460e-80c3-b72fda6c4001.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekkun&label=Profile%20views&color=0e75b6&style=flat" alt="bibekkun" /> </p>
 
