@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Broke guy trying to make some money.
+# Broke guy.
 
 
 ## 🌐 Socials:
