@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## Data Science Self learner and Practitioner  
 
-![Check my travel blogs](https://bibekrai44.github.io/dotphot/)
+[Check my travel blogs](https://bibekrai44.github.io/dotphot/)
 
-![Data Science Portfolio](https://www.datascienceportfol.io/bibekrai)
+[Data Science Portfolio](https://www.datascienceportfol.io/bibekrai)
 
-![Data Visualization Portfolio](https://public.tableau.com/app/profile/bi4250)
+[Data Visualization Portfolio](https://public.tableau.com/app/profile/bi4250)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VN6KwQxKDc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-rai-43173b258/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Bibek44) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21242619/random-guy-in-internet-with-no) 
